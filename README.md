@@ -30,7 +30,7 @@
 
 
 
-* 데이터셋 예시
+###데이터셋 예시
 
 ![alt text](screenshots/1.png)
 
@@ -38,7 +38,7 @@
 
 
 
-* 데이터셋 필드 설명
+###데이터셋 필드 설명
 
 ![alt text](screenshots/2.png)
 ![alt text](screenshots/3.png)
@@ -47,7 +47,7 @@
 
 
 
-* 데이터셋 파일 구성 정보
+###데이터셋 파일 구성 정보
 
 ![alt text](screenshots/4.png)
 
@@ -55,7 +55,7 @@
 
 
 
-* 처리 흐름
+###처리 흐름
 
 ![alt text](screenshots/5.png)
 
@@ -65,7 +65,7 @@
 
 
 
-* 입력 및 출력 결과
+###입력 및 출력 결과
 
 입력: hadoop jar TaxiPrediction-0.0.1-SNAPSHOT.jar TaxiPrediction /input/taxi_data/TaxiMach_Link_Dataset_Full_201504.txt /output/taxi/ 1 01 /input/taxi_data/Link_ID-T_Link_ID-Mapping.txt
 
