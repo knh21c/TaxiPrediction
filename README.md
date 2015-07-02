@@ -3,8 +3,11 @@
 
 ###개발환경
 OS: ubuntu-14.04.1-64bit
+
 Tool: VMware Player, Eclipse Platform(Maven Project)
+
 Processor: single core processor
+
 Memory: 4GB
 
 ###목표
