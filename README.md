@@ -2,13 +2,14 @@
 ##서울시에서 제공하는 택시 분석 자료를 이용해 택시 수요를 예측하는 맵리듀스 프로그램
 
 ###개발환경
-OS: ubuntu-14.04.1-64bit
+OS: ubuntu-14.04.1(64bit)
 
 Tool: VMware Player, Eclipse Platform(Maven Project)
 
 Processor: single core processor
 
 Memory: 4GB
+
 
 ###목표
 서울시 열린데이터 광장(data.seoul.go.kr)에서 제공하는 서울시 택시 운행 분석 데이터를 이용해 특정 요일의 특정 시간대에 택시 수요가 많은 상위 10개 지역의 표준 노드 링크ID를 찾는다.
